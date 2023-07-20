@@ -1,6 +1,6 @@
 # Markdown Realtime Viewer
 
-This application allows users to view raw Markdown content on the left side and the corresponding rendered HTML markup on the right side. It also enables multiple users to collaboratively work on the same Markdown document in real-time through a shareable URL, with all changes automatically saved.
+Write raw Markdown content on the left side and the view the rendered markup on the right side. Enables multiple users to collaboratively work on the same Markdown document in real-time through a shareable URL, with all changes automatically saved.
 
 ## Getting Started
 
